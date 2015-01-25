@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Text2D", "Text2D\Text2D.vcxproj", "{27BAFF64-ED88-48F2-9C28-9AB9654F3216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27BAFF64-ED88-48F2-9C28-9AB9654F3216}.Debug|Win32.ActiveCfg = Debug|Win32
+		{27BAFF64-ED88-48F2-9C28-9AB9654F3216}.Debug|Win32.Build.0 = Debug|Win32
+		{27BAFF64-ED88-48F2-9C28-9AB9654F3216}.Release|Win32.ActiveCfg = Release|Win32
+		{27BAFF64-ED88-48F2-9C28-9AB9654F3216}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

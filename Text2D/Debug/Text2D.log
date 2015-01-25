@@ -1,0 +1,23 @@
+﻿Build started 12/11/2014 11:58:44 PM.
+     1>Project "D:\dev\C++\projects\visualstudio\Text2D\Text2D\Text2D.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Text2D.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\Text2D.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt BMfont.cpp Text2D.cpp
+         Text2D.cpp
+         BMfont.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"D:\dev\C++\projects\visualstudio\Text2D\Debug\Text2D.lib" /NOLOGO Debug\BMfont.obj
+         Debug\Text2D.obj
+         Text2D.vcxproj -> D:\dev\C++\projects\visualstudio\Text2D\Debug\Text2D.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\Text2D.unsuccessfulbuild".
+         Touching "Debug\Text2D.lastbuildstate".
+     1>Done Building Project "D:\dev\C++\projects\visualstudio\Text2D\Text2D\Text2D.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.16
